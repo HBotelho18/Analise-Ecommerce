@@ -1,18 +1,18 @@
-# 📊 Análise Ecommerce 
+# Análise Ecommerce 
 
-## 🎯 Objetivo
+## Objetivo
 Projeto desenvolvido para analisar dados de vendas de uma empresa com o objetivo de achar os pontos fortes de vendas dessa empresa.
 
 ---
 
-## 🛠 Ferramentas utilizadas
+## Ferramentas utilizadas
 - Python
 - Pandas
 - Colab
 
 ---
 
-## 📈 Análises realizadas
+## Análises realizadas
 - Região com maior receita bruta
 - Produto e categoria que gera maior receita liquida 
 - 10 maiores compradores
@@ -21,7 +21,7 @@ Projeto desenvolvido para analisar dados de vendas de uma empresa com o objetivo
 
 ---
 
-## 🔎 Insights
+## Insights
 - Maior receita liquida por região: Sul 
 - Categoria e produto que gera maior receita liquida: Notebook e Eletrônico
 - 10 maiores compradores: Cliente 48, 62, 66, 51, 34, 81, 11, 35, 67, 22
@@ -36,5 +36,5 @@ Centro Oeste: Cliente 20
 
 ---
 
-## 🚀 Conclusão
+## Conclusão
 A análise permitiu identificar os maiores compradores e os produtos que mais vendem dentro da empresa, e as regiões que mais são lucrativas, como as que são menos também 
